@@ -3,13 +3,6 @@
 
 This project tracks objects of a specified color using OpenCV and displays the bounding box around the detected object in real-time using a webcam.
 
-## Requirements
-
-- Python 3.x
-- OpenCV 4.6.0.66
-- NumPy 1.23.4
-- Pillow 9.2.0
-
 You can install the required packages using:
 
 ```bash
