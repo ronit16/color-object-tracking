@@ -42,7 +42,7 @@ You can change the color to track by modifying the `color` variable in `main.py`
 
 <!-- ### Example Output -->
 
-![Output Example](assets/Screenshot from 2024-06-17 22-43-55.png)
+(![assets/Screenshot from 2024-06-17 22-43-55.png](https://github.com/ronit16/color-object-tracking/blob/main/assets/Screenshot%20from%202024-06-17%2022-43-55.png))
 
 ## Contributing
 
